@@ -1,0 +1,69 @@
+README:
+
+MembershipMaster version 1.0
+By Harry Carpenter
+
+Release Date:
+6/19/2017
+
+Purpose:
+Automatically generates hour updates for APO by reading input from an Excel sheet and outputting it in a Microsoft Word document.
+
+How to use:
+
+1) Log into your chapter's page in APO Online
+
+2) Once logged in, select the 'Manage' tab.
+
+3) Select 'Chapter Progress Report' under 'Generate a Report on my chapter's activities'
+
+4) Under 'Select which fields you would like to show in your report', you should only have 'First name' and 'Last name' checked.
+Make sure you remove the check from 'nickname'.
+
+5) Under 'Select which requirements you would like to show in your report', you should have 'Attendance', 'Service Hours (total)', and 'Fellowship Hours (total)' checked.
+
+6) Under 'Select which user statuses you would like to show', please select only one status.
+ For this program, you can only do one status at a time. 
+
+7) Under 'Select which requirements you would like to show in your report', select 'Save report as a Comma-Separated Value file (open with Excel)' 
+
+8) Select 'Generate Report'. The report should be in your downloads. It is titled something like 'Your-Chapter-Name-Membership-Report-Year-Month-Date'
+
+9) Open and save a blank word document. The recommended save name is hoursUpdates.docx.This is where the midterm hours updates will be generated. 
+
+10) Run MembershipMaster
+
+11) Input the current week of your academic term or semester.
+
+12) Input the length of your academic term or semester. Don't forget to exclude finals days.
+
+13) Input the chapter attendance requirements for the status group (e.g. pledges, actives, associates, probation)  
+In other words, how many chapters for this status group is perfect attendance?
+
+14) Input the service hours requirements for the status group in your chapter
+
+15) Input the fellowship hours requirements for the status group in your chapter
+
+
+16) List the mandatory events for this term. Please note that the mandatory events must be listed from left to right as listed on the excel sheet, and you must put a ',' after each event.
+
+17) Input your first name
+
+18) Select 'Generate Updates!'
+
+19) Select the Membership Progress report. Remember, it is in your downloads and the file is named something like 'Your-Chapter-Name-Membership-Report-Year-Month-Date'  
+Once you selected the file, choose the 'open' button.
+
+20) Select the output file for your Membership Updates. Select a word document named something like 'hoursUpdates.docx'  
+Once you selected the file, choose the 'select' button.  
+  
+21) Open hoursUpdates.docx. 
+
+22) Copy each generated message and paste it into an email message. Make sure you read it over before you send it off. Do that for every brother in your chapter. 
+
+23) If you have any questions or concerns, feel free to let me know. 
+
+ 
+
+
+
